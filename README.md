@@ -1,2 +1,2 @@
 # NdkDemoApplication
-personally
+personally demo
